@@ -71,4 +71,4 @@ qty3.addEventListener("input", addOrder);
 qty4.addEventListener("input", addOrder);
 qty5.addEventListener("input", addOrder);
 
-cash.addEventListener("input", calculateChange);
+cash.addEventListener("input", calculateChange)
